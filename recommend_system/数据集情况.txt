@@ -1,0 +1,13 @@
+ratings：用户对电影的评分情况
+文件结构为：
+user_id, movie_id, rating, timestamp
+
+
+users: 用户情况
+文件结构为：
+user_id, gender, age, occupation, zip_code
+
+
+movies：电影情况
+文件结构为：
+movie_id, title, genres
